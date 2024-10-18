@@ -7,5 +7,5 @@ st.write('Hola! Acá te contaré un poco sobre mi 3 series favoritas de cuando e
 
 image = Image.open('series.jpg')
 
-st.image(image,width=300)
+st.image(image)
 
