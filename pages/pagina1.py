@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Título de la página
-st.title('Pagina 1: Información sobre Phineas y Ferb')
+st.title('Información sobre Phineas y Ferb')
 
 # Subtítulo
 st.subheader('¿Qué es Phineas y Ferb?')
